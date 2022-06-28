@@ -10,6 +10,7 @@ import Movielists from "./components/Movielists"
 function App() {
   return (
     <div className="App">
+      <h2>My react app</h2>
       {/* <Header></Header>
        <BrowserRouter>
        <Routes>
